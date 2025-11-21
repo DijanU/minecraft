@@ -8,6 +8,10 @@ Here is a video demonstrating the ray tracer in action:
 
 [Project Demo Video](https://uvggt-my.sharepoint.com/:v:/g/personal/pad23663_uvg_edu_gt/IQCmdRbmCCdiT6MlIWk8EYyqAXLmt96-K79c1gRe2cesPm4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KblSV8)
 
+Here is another video demonstrating the ray tracer in action:
+
+[Project Demo Video](https://uvggt-my.sharepoint.com/:v:/g/personal/pad23663_uvg_edu_gt/IQCmdRbmCCdiT6MlIWk8EYyqAXLmt96-K79c1gRe2cesPm4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6lvUr9)
+
 ## Features
 
 - **Minecraft-Inspired Scene**: The world is built from cubes with various materials like grass, stone, wood, and more.
